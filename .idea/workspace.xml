@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc495b6-38d7-43f4-bcc7-0c7a4b2b840a" name="Changes" comment="" />
+    <list default="true" id="dfc495b6-38d7-43f4-bcc7-0c7a4b2b840a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/BinaryOperatorExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/ConsumerExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/FunctionExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/PredicateExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/SupplierExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ieI52LTUCrVsHx2NQiQCauqDJx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +40,89 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinaryOperatorExemple.executor": "Run",
+    "Application.Consumer.executor": "Run",
+    "Application.ConsumerExemplo.executor": "Run",
+    "Application.FunctionExemplo.executor": "Run",
+    "Application.PredicateExemplo.executor": "Run",
+    "Application.SupplierExemplo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/nicolas.santos/Desktop/Nícolas/Nícolas/Cursos/dio/trilha-java-basico/Stream-api/stream-api-na-pratica/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.BinaryOperatorExemple">
+    <configuration name="BinaryOperatorExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.BinaryOperatorExemple" />
+      <module name="stream-api-na-pratica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.ConsumerExemplo" />
+      <module name="stream-api-na-pratica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.FunctionExemplo" />
+      <module name="stream-api-na-pratica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.PredicateExemplo" />
+      <module name="stream-api-na-pratica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryOperatorExemple" />
+        <item itemvalue="Application.ConsumerExemplo" />
+        <item itemvalue="Application.PredicateExemplo" />
+        <item itemvalue="Application.FunctionExemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,16 +133,5 @@
       <updated>1719844451348</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
